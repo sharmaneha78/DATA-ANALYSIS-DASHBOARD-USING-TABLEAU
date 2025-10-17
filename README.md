@@ -86,7 +86,7 @@ This dashboard helps organizations:
 ---
 
 ## 📸 Dashboard Preview  
-![HR Analytics Dashboard](link-to-your-screenshot-image)
+![HR Analytics Dashboard](IMG-20251017-WA0002.jpg)
 
 *(Replace the above link with your actual image URL from your GitHub repository.)*
 
